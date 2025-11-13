@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vaibhav Pandey
 
-**🚀 Member of Technical Staff | Backend Engineer | AI & LLM Enthusiast**  
-Currently building scalable backend and infrastructure @ Salesforce | Exploring LLMs & AI Agents
+**🚀 Software Engineer @ Airbnb | AI & LLM**  
+Currently building scalable backend and infrastructure @ Airbnb | Previously worked with Salesforce and Amazon
 
 ---
 
@@ -16,7 +16,7 @@ Currently building scalable backend and infrastructure @ Salesforce | Exploring 
 
 ## 💼 About Me
 
-I'm a software engineer with **5+ years of experience** working across product-based companies like **Amazon** and **Salesforce**. My core strengths lie in **backend development, infrastructure creation, and tinkering with LLMs and Agents**.
+I'm a software engineer with **6+ years of experience** working across product-based companies like **Amazon**, **Salesforce** and **Airbnb**. My core strengths lie in **backend development, deployment of LLMs and building applications for search relevancy using Opensearch and RAG**.
 
 🔧 Currently, I’m focusing on building **high-throughput infra systems**, and learning how to design and train **LLMs from scratch**. I’m especially interested in **AI agents, the Model Context Protocol (MCP)**, and how emerging LLM technologies can be used for real-world automation and productivity.
 
